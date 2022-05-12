@@ -92,16 +92,6 @@
       "ProxyIP": "104.16.51.91",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },
-    {
-      "Name": "OI 02",
-      "FLAG": "oi",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
     }
   ]
 }
